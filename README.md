@@ -17,4 +17,9 @@ Access:<br>
 http://localhost:8080/swagger-ui.html
 
 
+<br><br>
+
+Reference:
+http://blog.didispace.com/springbootswagger2/
+
 
