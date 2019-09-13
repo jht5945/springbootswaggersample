@@ -5,7 +5,7 @@ Build:
 ```
 $ buildj
 ```
-Get build: https://github.com/jht5945/buildj
+Get buildj: https://github.com/jht5945/buildj
 
 
 Run:
